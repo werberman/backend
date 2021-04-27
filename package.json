@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Angular SQL backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werberman/backend.git"
+  },
+  "author": "werberman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werberman/backend/issues"
+  },
+  "homepage": "https://github.com/werberman/backend#readme",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "mysql": "2.18.1"
+  }
+}
